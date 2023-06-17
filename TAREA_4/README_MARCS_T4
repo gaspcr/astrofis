@@ -1,0 +1,23 @@
+  5750.      Teff [K]         
+  6.1985E+10 Flujo [erg/cm2/s]
+  3.1623E+04 gravedad superficial [cm/s2]
+  2.0        parámetro de microturbulencia [km/s]
+ +0.00 +0.00 metalicidad [Fe/H] y [alpha/Fe], con [X/Y] = log(X/Y) - log(X/Y)_Sol
+  X = 0.73826 
+  Y = 0.24954 
+  Z = 1.22E-02 
+
+**************
+* k            = índice de la capa 
+* depth(k)     = profundidad (cm), depth=0.0 @ tau_R = 1.0
+* t(k)         = temperatura [K]
+* pe(k)        = presión electrónica [dyn/cm2]
+* pg(k)        = presión del gas [dyn/cm2]
+* prad(k)      = presión de radiación [dyn/cm2]
+* kappaross(k) = opacidad promedio de Rosseland [cm2/g]
+* density(k)   = densidad [g/cm3]
+* mu(k)        = peso molecular medio [amu]
+* vconv(k)     = velocidad convectiva [cm/s]
+* frconv/f(k)  = fracción del flujo convectivo
+* rhox(k)      = densidad de columna, considerando la masa arriba de la capa k [g/cm2]
+**************
